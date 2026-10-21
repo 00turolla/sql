@@ -1,5 +1,3 @@
-
-
 /*INSTRUÇÃO 1*/
 use vendas_informatica;
 
